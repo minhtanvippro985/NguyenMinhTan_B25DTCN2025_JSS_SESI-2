@@ -17,11 +17,9 @@ if (rating == 5 || rating == 4) {
     alert("sach nay kha on , co the muon");
 } else if (rating == 2 || rating == 1) {
     alert("sach nay ban co the can nhac muon lai sau");
-} else if (rating > 5) {
-    alert("may duoc lam ,... MAY HEN LAM!!!!");
-
 } else {
-    alert("nham roi");
+    alert("dua ra mot con so rating hop ly");
 }
+
 
 
